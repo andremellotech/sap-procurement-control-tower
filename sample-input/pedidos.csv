@@ -1,0 +1,9 @@
+pedido;item_pedido;rc;item_rc;data_pedido;fornecedor;centro;grupo_compras;material;descricao;unidade;quantidade;quantidade_recebida;preco_brl;unidade_preco;data_prevista;status
+4500002001;10;1000001001;10;2026-09-04;Fornecedor Alfa;ENG;G01;MAT001;Conjunto de fixação;UN;60;60;250.00;1;2026-09-15;CONCLUIDO
+4500002002;10;1000001001;10;2026-09-07;Fornecedor Alfa;ENG;G01;MAT001;Conjunto de fixação;UN;40;10;250.00;1;2026-09-20;ABERTO
+4500002003;10;1000001001;20;2026-09-08;Fornecedor Beta;ENG;G01;MAT002;Conectores industriais;UN;8;0;1800.00;100;2026-09-25;ABERTO
+4500002004;10;1000001005;10;2026-09-09;Fornecedor Gama;ENG;G01;MAT006;Sensor de processo;UN;12;12;3200.00;1;2026-09-22;CONCLUIDO
+4500002005;10;1000001006;10;2026-09-14;Fornecedor Delta;OPS;G02;MAT007;Válvula auxiliar;UN;40;20;125.00;1;2026-10-08;ABERTO
+4500002006;10;;;2026-09-16;Fornecedor Épsilon;ADM;G03;MAT010;Kit de organização;UN;15;0;85.00;1;2026-09-28;ABERTO
+4500002007;10;1000001001;20;2026-09-10;Fornecedor Beta;ENG;G01;MAT002;Conectores industriais;UN;5;0;1800.00;100;2026-09-23;EXCLUIDO
+4500002008;10;1000001006;10;2026-09-20;Fornecedor Alfa;OPS;G02;MAT007;Válvula auxiliar;UN;5;0;125.00;1;2026-10-15;ABERTO

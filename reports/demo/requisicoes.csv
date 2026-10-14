@@ -1,0 +1,10 @@
+﻿rc;item_rc;data_rc;data_liberacao;solicitante;centro;grupo_compras;material;descricao;unidade;quantidade_milesimos;status;arquivo;linha;pedido_milesimos;itens_pedido_ativos;primeiro_pedido;saldo_rc_milesimos;situacao;dias_aberta;dias_rc_primeiro_pedido
+1000001001;00010;2026-09-01;2026-09-02;Solicitante 01;ENG;G01;MAT001;Conjunto de fixação;UN;100000;LIBERADA;requisicoes.csv;2;100000;2;2026-09-04;0;CONVERTIDA;0;3
+1000001001;00020;2026-09-01;2026-09-02;Solicitante 01;ENG;G01;MAT002;Conectores industriais;UN;20000;LIBERADA;requisicoes.csv;3;8000;1;2026-09-08;12000;PARCIAL;28;7
+1000001002;00010;2026-09-03;2026-09-05;Solicitante 02;OPS;G02;MAT003;Elemento filtrante;UN;50000;LIBERADA;requisicoes.csv;4;0;0;;50000;SEM_PEDIDO;25;
+1000001003;00010;2026-09-22;;Solicitante 03;ADM;G03;MAT004;Suporte de monitor;UN;10000;AGUARDANDO;requisicoes.csv;5;0;0;;10000;AGUARDANDO;0;
+1000001004;00010;2026-09-05;;Solicitante 04;OPS;G02;MAT005;Correia de transmissão;UN;5000;EXCLUIDA;requisicoes.csv;6;0;0;;5000;EXCLUIDA;0;
+1000001005;00010;2026-09-06;2026-09-07;Solicitante 05;ENG;G01;MAT006;Sensor de processo;UN;12000;LIBERADA;requisicoes.csv;7;12000;1;2026-09-09;0;CONVERTIDA;0;3
+1000001006;00010;2026-09-10;2026-09-11;Solicitante 06;OPS;G02;MAT007;Válvula auxiliar;UN;40000;LIBERADA;requisicoes.csv;8;45000;2;2026-09-14;0;CONVERTIDA;0;4
+1000001007;00010;2026-09-25;2026-09-26;Solicitante 07;ADM;G03;MAT008;Organizador de bancada;UN;30000;LIBERADA;requisicoes.csv;9;0;0;;30000;SEM_PEDIDO;4;
+1000001008;00010;2026-09-18;;Solicitante 08;ADM;G03;MAT009;Luminária técnica;UN;2000;REJEITADA;requisicoes.csv;10;0;0;;2000;REJEITADA;0;

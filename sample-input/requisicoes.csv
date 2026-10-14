@@ -1,0 +1,10 @@
+rc;item_rc;data_rc;data_liberacao;solicitante;centro;grupo_compras;material;descricao;unidade;quantidade;status
+1000001001;10;2026-09-01;2026-09-02;Solicitante 01;ENG;G01;MAT001;Conjunto de fixação;UN;100;LIBERADA
+1000001001;20;2026-09-01;2026-09-02;Solicitante 01;ENG;G01;MAT002;Conectores industriais;UN;20;LIBERADA
+1000001002;10;2026-09-03;2026-09-05;Solicitante 02;OPS;G02;MAT003;Elemento filtrante;UN;50;LIBERADA
+1000001003;10;2026-09-22;;Solicitante 03;ADM;G03;MAT004;Suporte de monitor;UN;10;AGUARDANDO
+1000001004;10;2026-09-05;;Solicitante 04;OPS;G02;MAT005;Correia de transmissão;UN;5;EXCLUIDA
+1000001005;10;2026-09-06;2026-09-07;Solicitante 05;ENG;G01;MAT006;Sensor de processo;UN;12;LIBERADA
+1000001006;10;2026-09-10;2026-09-11;Solicitante 06;OPS;G02;MAT007;Válvula auxiliar;UN;40;LIBERADA
+1000001007;10;2026-09-25;2026-09-26;Solicitante 07;ADM;G03;MAT008;Organizador de bancada;UN;30;LIBERADA
+1000001008;10;2026-09-18;;Solicitante 08;ADM;G03;MAT009;Luminária técnica;UN;2;REJEITADA

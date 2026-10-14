@@ -1,0 +1,6 @@
+﻿fornecedor;itens;documentos;valor_centavos;saldo_centavos;itens_atrasados;saldo_atrasado_centavos
+Fornecedor Alfa;3;3;2562500;812500;1;750000
+Fornecedor Beta;1;1;14400;14400;1;14400
+Fornecedor Delta;1;1;500000;250000;0;0
+Fornecedor Gama;1;1;3840000;0;0;0
+Fornecedor Épsilon;1;1;127500;127500;1;127500

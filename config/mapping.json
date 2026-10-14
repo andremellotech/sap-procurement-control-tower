@@ -1,0 +1,47 @@
+{
+  "formato_data": "iso",
+  "milhar": "",
+  "decimal": ".",
+  "separador": ";",
+  "requisicoes": {
+    "aba": "Dados",
+    "colunas": {
+      "rc": "rc",
+      "item_rc": "item_rc",
+      "data_rc": "data_rc",
+      "data_liberacao": "data_liberacao",
+      "solicitante": "solicitante",
+      "centro": "centro",
+      "grupo_compras": "grupo_compras",
+      "material": "material",
+      "descricao": "descricao",
+      "unidade": "unidade",
+      "quantidade": "quantidade",
+      "status": "status"
+    },
+    "arquivo": "requisicoes.csv"
+  },
+  "pedidos": {
+    "aba": "Dados",
+    "colunas": {
+      "pedido": "pedido",
+      "item_pedido": "item_pedido",
+      "rc": "rc",
+      "item_rc": "item_rc",
+      "data_pedido": "data_pedido",
+      "fornecedor": "fornecedor",
+      "centro": "centro",
+      "grupo_compras": "grupo_compras",
+      "material": "material",
+      "descricao": "descricao",
+      "unidade": "unidade",
+      "quantidade": "quantidade",
+      "quantidade_recebida": "quantidade_recebida",
+      "preco_brl": "preco_brl",
+      "unidade_preco": "unidade_preco",
+      "data_prevista": "data_prevista",
+      "status": "status"
+    },
+    "arquivo": "pedidos.csv"
+  }
+}
